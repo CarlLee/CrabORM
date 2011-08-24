@@ -15,6 +15,4 @@ public interface IModel {
 	public void setByJSON();
 
 	public void setByCursor(Cursor c);
-
-	public String getCreateTableStatement();
 }

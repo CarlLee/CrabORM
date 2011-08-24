@@ -16,8 +16,6 @@ public class ModelTest extends AndroidTestCase {
 	}
 
 	public void testGetCreateTableStatement() {
-		String statement = new SimpleModel().getCreateTableStatement();
-		Log.v("AndroidORM", "" + statement);
 	}
 
 }
