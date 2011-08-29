@@ -1,7 +1,6 @@
 package com.carllee.androidorm.test;
 
 import android.test.AndroidTestCase;
-import android.util.Log;
 
 public class ModelTest extends AndroidTestCase {
 

@@ -1,8 +1,8 @@
 package com.carllee.androidorm.test;
 
-import com.carllee.androidorm.Model;
-import com.carllee.androidorm.annotations.DataField;
-import com.carllee.androidorm.annotations.DataTable;
+import com.carllee.craborm.Model;
+import com.carllee.craborm.annotations.DataField;
+import com.carllee.craborm.annotations.DataTable;
 
 @DataTable(name = "SimpleModel")
 public class SimpleModel extends Model {
